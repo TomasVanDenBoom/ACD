@@ -1,1 +1,1 @@
-# Assignment notebook for Analysis of Customer Data elective course, UvT 2022
+# Assignment notebook for Analysis of Customer Data, UvT 2022
